@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'nthien204', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,103 +11,103 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    facebook: '',
+    linkedin: 'thien-nguyen-767894259',
+    twitter: '',
+    mastodon: '',
+    facebook: 'https://www.facebook.com/thien.hn2512',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    website: '',
+    phone: '0354610006',
+    email: 'thien.hn2512@gmail.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'Java',
+    'CSharp',
+    'C++',
+    'Python',
     'JavaScript',
     'React.js',
     'Node.js',
-    'Nest.js',
+    'Next.js',
     'MySQL',
-    'PostgreSQL',
     'Git',
     'Docker',
     'PHPUnit',
     'CSS',
-    'Antd',
     'Tailwind',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'F8',
+      position: 'Web Developer',
+      from: 'September 2019',
       to: 'Present',
       companyLink: 'https://example.com',
     },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
+    // {
+    //   company: 'Company Name',
+    //   position: 'Position',
+    //   from: 'July 2019',
+    //   to: 'August 2021',
+    //   companyLink: 'https://example.com',
+    // },
   ],
-  /* certifications: [
-    {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
-    },
-  ], */
+  // certifications: [
+  //   {
+  //     name: 'Lorem ipsum',
+  //     body: 'Lorem ipsum dolor sit amet',
+  //     year: 'March 2022',
+  //     link: 'https://example.com'
+  //   },
+  // ],
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Trường Đại học Giao thông vận tải',
+      degree: 'Đại học',
+      from: '2022',
+      to: '2027',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'THPT Lương Ngọc Quyến',
+      degree: 'THPT',
+      from: '2018',
+      to: '2022',
     },
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Portfolio Personal',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Github Profile.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
-    {
-      title: 'Project Name',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
-    },
+    // {
+    //   title: 'Project Name',
+    //   description:
+    //     'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+    //   imageUrl: 'https://via.placeholder.com/250x250',
+    //   link: 'https://example.com',
+    // },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: 'nthien204', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
