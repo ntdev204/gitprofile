@@ -6,15 +6,6 @@
   <h4 align="center">Easy to use automatic portfolio builder for every GitHub user!</h4>
 
   
-
-<p align="center">
-  <a href="https://arifszn.github.io/gitprofile">
-    <img src="https://arifszn.netlify.app/assets/img/hosted/gitprofile/preview.gif" alt="Preview" width="60%"/>
-  </a>
-  <br/>
-  <a href="#arifszn"><img src="https://arifszn.netlify.app/assets/img/drop-shadow.png" width="50%" alt="Shadow"/></a>
-</p>
-
 **GitProfile** is an easy to use portfolio builder where you can create a portfolio page automatically by just providing your GitHub username. It is built using React.js on top of Vite. But it's not necessary to have knowledge on these to get you started. You can make your own copy with zero coding experience.
 
 **Features:**
@@ -38,17 +29,6 @@ To view a live example, **[click here](https://arifszn.github.io/gitprofile)**.
 
 Or try it **[online](https://stackblitz.com/edit/gitprofile)**.
 
-<p align="center">
-  <img src="https://arifszn.netlify.app/assets/img/hosted/gitprofile/themes.png" alt="Themes">
-</p>
-
-## 🎉 Thank you for the 800 ★
-
-<p>
-  <a href="https://arifszn.github.io/gitprofile">
-    <img src="https://github.com/arifszn/gitprofile/assets/45073703/b3d34d17-cf55-4c74-bf44-3196b1f0ac66" alt="Thank You" width="50%"/>
-  </a>
-</p>
 
 ## 🛠 Installation & Setup
 
