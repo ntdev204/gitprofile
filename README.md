@@ -6,7 +6,7 @@
   <h4 align="center">Easy to use automatic portfolio builder for every GitHub user!</h4>
 
   
-**GitProfile** is an easy to use portfolio builder where you can create a portfolio page automatically by just providing your GitHub username. It is built using React.js on top of Vite. But it's not necessary to have knowledge on these to get you started. You can make your own copy with zero coding experience.
+**Gitprofile** is an easy to use portfolio builder where you can create a portfolio page automatically by just providing your GitHub username. It is built using React.js on top of Vite. But it's not necessary to have knowledge on these to get you started. You can make your own copy with zero coding experience.
 
 **Features:**
 
@@ -30,7 +30,7 @@ To view a live example, **[click here](https://thiendev.id.vn/)**.
 
 ## 🛠 Installation & Setup
 
-There are three ways to use **GitProfile**. Use any.
+There are three ways to use **Gitprofile**. Use any.
 
 - [Forking this repo _(recommended)_](#forking-this-repo)
 - [Setting up locally](#setting-up-locally)
@@ -71,7 +71,7 @@ As this is a Vite project, you can also host your website to Netlify, Vercel, He
 
   ```shell
   git clone https://github.com/nthien204/github-profile
-  cd gitprofile
+  cd git-profile
   ```
 
 - Install dependencies.
@@ -86,18 +86,18 @@ As this is a Vite project, you can also host your website to Netlify, Vercel, He
   npm run dev
   ```
 
-- Finally, visit [`http://localhost:5173/gitprofile/`](http://localhost:5173/gitprofile/) from your browser.
+- Finally, visit [`http://localhost:5173/git-profile/`](http://localhost:5173/git-profile/) from your browser.
 
 
 Then, import the package, import and style and provide the config.
 
 ```js
-import GitProfile from '@nthien204/github-profile';
+import git-profile from '@nthien204/github-profile';
 import '@nthien204/github-profile/dist/style.css';
 
 function App() {
   return (
-    <GitProfile
+    <git-profile
       config={{
         github: {
           username: 'nthien204',
@@ -323,7 +323,7 @@ const config = {
 
 ### Google Analytics
 
-**GitProfile** supports both GA3 and GA4. If you do not want to use Google Analytics, keep the `id` empty.
+**Gitprofile** supports both GA3 and GA4. If you do not want to use Google Analytics, keep the `id` empty.
 
 ```js
 // gitprofile.config.js
@@ -339,7 +339,7 @@ Besides tracking visitors, it will track `click events` on projects and blog pos
 
 ### Hotjar
 
-**GitProfile** supports [hotjar](https://www.hotjar.com) to track visitor interaction and behavior. If you do not want to use Hotjar, keep the `id` empty.
+**gitprofile** supports [hotjar](https://www.hotjar.com) to track visitor interaction and behavior. If you do not want to use Hotjar, keep the `id` empty.
 
 ```js
 // gitprofile.config.js
