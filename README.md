@@ -110,10 +110,6 @@ function App() {
 export default App;
 ```
 
-List of all config [here](#-customization).
-
-**If you face any problems or have any questions, open an issue [here](https://github.com/arifszn/gitprofile/issues).**
-
 ## 🎨 Customization
 
 All the magic happens in the file `gitprofile.config.js`. Open it and modify it according to your preference.
@@ -303,10 +299,6 @@ const config = {
   },
 };
 ```
-
-<p align="center">
-  <img src="https://arifszn.netlify.app/assets/img/hosted/gitprofile/theme-dropdown.png" alt="Theme Dropdown" width="50%">
-</p>
 
 You can create your own custom theme by modifying these values. Theme `procyon` will have the custom styles.
 
