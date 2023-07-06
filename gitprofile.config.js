@@ -14,18 +14,18 @@ const config = {
     linkedin: 'thien-nguyen-767894259',
     twitter: '',
     mastodon: '',
-    facebook: 'https://www.facebook.com/thien.hn2512',
+    facebook: 'thien.hn2512',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
     medium: '',
-    dev: '',
+    dev: 'nthien204',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
     website: '',
-    phone: '0354610006',
+    phone: '0368074880',
     email: 'thien.hn2512@gmail.com',
   },
   resume: {
@@ -50,19 +50,19 @@ const config = {
   ],
   experiences: [
     {
-      company: 'F8',
+      company: 'F8 - Học lập trình để đi làm',
       position: 'Web Developer',
       from: 'September 2019',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://fullstack.edu.vn/',
     },
-    // {
-    //   company: 'Company Name',
-    //   position: 'Position',
-    //   from: 'July 2019',
-    //   to: 'August 2021',
-    //   companyLink: 'https://example.com',
-    // },
+    {
+      company: 'Teck Share',
+      position: 'Founder - CEO Teck Share',
+      from: 'July 2013',
+      to: 'August 2021',
+      companyLink: 'ntdev.online',
+    },
   ],
   // certifications: [
   //   {
@@ -90,19 +90,19 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
+      title: 'Github Profile',
+      description:
+        'Nguyễn Ngọc Thiện',
+      imageUrl: 'https://avatars.githubusercontent.com/u/120099415?v=4',
+      link: 'https://thiendev.id.vn',
+    },
+    {
       title: 'Portfolio Personal',
       description:
-        'Github Profile.',
+        'Nguyễn Ngọc Thiện',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://ntdev.id.vn',
     },
-    // {
-    //   title: 'Project Name',
-    //   description:
-    //     'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-    //   imageUrl: 'https://via.placeholder.com/250x250',
-    //   link: 'https://example.com',
-    // },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
@@ -119,7 +119,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'wireframe',
+    defaultTheme: 'winter',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -136,34 +136,34 @@ const config = {
     themes: [
       'light',
       'dark',
-      'cupcake',
-      'bumblebee',
+      // 'cupcake',
+      // 'bumblebee',
       'emerald',
-      'corporate',
+      // 'corporate',
       'synthwave',
-      'retro',
-      'cyberpunk',
+      // 'retro',
+      // 'cyberpunk',
       'valentine',
       'halloween',
-      'garden',
+      // 'garden',
       'forest',
       'aqua',
-      'lofi',
-      'pastel',
-      'fantasy',
-      'wireframe',
-      'black',
+      // 'lofi',
+      // 'pastel',
+      // 'fantasy',
+      // 'wireframe',
+      // 'black',
       'luxury',
       'dracula',
-      'cmyk',
-      'autumn',
-      'business',
+      // 'cmyk',
+      // 'autumn',
+      // 'business',
       'acid',
-      'lemonade',
+      // 'lemonade',
       'night',
-      'coffee',
+      // 'coffee',
       'winter',
-      'procyon',
+      // 'procyon',
     ],
 
     // Custom theme
@@ -180,7 +180,7 @@ const config = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://github.com/nthien204/github-profile"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
