@@ -59,9 +59,9 @@ const config = {
     {
       company: 'Teck Share',
       position: 'Founder - CEO Teck Share',
-      from: 'July 2013',
-      to: 'August 2021',
-      companyLink: 'ntdev.online',
+      from: 'July 2023',
+      to: 'Present',
+      companyLink: 'https://ntdev.online/',
     },
   ],
   // certifications: [
@@ -82,7 +82,7 @@ const config = {
     {
       institution: 'THPT Lương Ngọc Quyến',
       degree: 'THPT',
-      from: '2018',
+      from: '2019',
       to: '2022',
     },
   ],
@@ -100,7 +100,7 @@ const config = {
       title: 'Portfolio Personal',
       description:
         'Nguyễn Ngọc Thiện',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: '/logo-portfolio-250.jpg',
       link: 'https://ntdev.id.vn',
     },
   ],
