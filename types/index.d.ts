@@ -1,4 +1,4 @@
-// Type definitions for GitProfile
+// Type definitions for GitProfile 
 // Project https://github.com/arifszn/gitprofile
 // Author: Ariful Alam <arifulalamszn@gmail.com>
 
