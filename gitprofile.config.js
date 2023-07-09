@@ -80,16 +80,10 @@ const config = {
             link: 'https://ntdev.online',
         },
         {
-            title: 'Github Profile',
-            description: 'Nguyễn Ngọc Thiện',
-            imageUrl: 'https://avatars.githubusercontent.com/u/120099415?v=4',
-            link: 'https://thiendev.id.vn',
-        },
-        {
             title: 'Portfolio Personal',
             description: 'Nguyễn Ngọc Thiện',
             imageUrl: '/res/logo-portfolio-250.jpg',
-            link: 'https://ntdev.id.vn',
+            link: 'https://thiendev.id.vn',
         },
     ],
     // Display blog posts from your medium or dev account. (Optional)
