@@ -141,7 +141,7 @@ const config = {
       target="_blank"
       rel="noreferrer"
     >NTDEV</a> and ❤️ - 
-    Copyright ©️ 2023 <a 
+    ©️ 2023 <a 
     class="text-primary" href="https://github.com/nthien204"
     target="_blank"
     rel="noreferrer"
