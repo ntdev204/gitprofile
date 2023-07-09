@@ -1,15 +1,15 @@
 {
-  "name": "@nthien204/git-profile",
+  "name": "@ntdev204/git-profile",
   "description": "Create an automatic portfolio based on GitHub profile",
   "version": "2.6.0",
   "license": "MIT",
-  "author": "nthien204",
+  "author": "ntdev204",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nthien204/git-profile.git"
+    "url": "https://github.com/ntdev204/giprofile.git"
   },
   "bugs": {
-    "url": "https://github.com/nthien204/git-profile/issues"
+    "url": "https://github.com/ntdev204/gitprofile/issues"
   },
   "files": [
     "dist/gitprofile.es.js",

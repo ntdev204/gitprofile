@@ -2,7 +2,7 @@
 
 const config = {
     github: {
-        username: 'nthien204', // Your GitHub org/user name. (Required)
+        username: 'ntdev204', // Your GitHub org/user name. (Required)
         sortBy: 'stars', // stars | updated
         limit: 10, // How many projects to display.
         exclude: {
@@ -11,7 +11,7 @@ const config = {
         },
     },
     social: {
-        linkedin: 'thien-nguyen-767894259',
+        linkedin: 'ntdev204',
         twitter: '',
         mastodon: '',
         facebook: 'thien.hn2512',
@@ -20,7 +20,7 @@ const config = {
         dribbble: '',
         behance: '',
         medium: '',
-        dev: 'nthien204',
+        dev: 'ntdev',
         stackoverflow: '', // example: '1/jeff-atwood'
         skype: '',
         telegram: '',
@@ -89,7 +89,7 @@ const config = {
     // Display blog posts from your medium or dev account. (Optional)
     blog: {
         source: 'dev', // medium | dev
-        username: 'thienhn204', // to hide blog section, keep it empty
+        username: 'ntdev', // to hide blog section, keep it empty
         limit: 2, // How many posts to display. Max is 10.
     },
     googleAnalytics: {
@@ -131,12 +131,12 @@ const config = {
 
     // Optional Footer. Supports plain text or HTML.
     footer: `Made with <a 
-      class="text-primary" href="https://github.com/nthien204"
+      class="text-primary" href="https://github.com/ntdev204"
       target="_blank"
       rel="noreferrer"
     >NTDEV</a> and ❤️ - 
     ©️ 2023 <a 
-    class="text-primary" href="https://github.com/nthien204"
+    class="text-primary" href="https://github.com/ntdev204"
     target="_blank"
     rel="noreferrer"
   >NTDEV</a>`,
