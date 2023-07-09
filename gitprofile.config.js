@@ -61,7 +61,7 @@ const config = {
             institution: 'Trường Đại học Giao thông vận tải',
             degree: 'Đại học',
             from: '2022',
-            to: '2027',
+            to: 'Present',
         },
         {
             institution: 'THPT Lương Ngọc Quyến',
